@@ -1,0 +1,12 @@
+# Pip dependencies for the AutoDL PyTorch image.
+# Keep torch/torchvision from the AutoDL image; do not install them here.
+numpy==1.26.4
+scipy
+pillow
+tqdm
+scikit-image
+scikit-learn
+pydicom
+SimpleITK
+odl
+timm
