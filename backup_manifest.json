@@ -1,0 +1,1576 @@
+{
+  "format": "split-uncompressed-pax-tar-v1",
+  "snapshot_date": "2026-10-24",
+  "source": "G:/autodl_backup",
+  "file_count": 291,
+  "original_bytes": 40959524041,
+  "parts": [
+    {
+      "name": "autodl_backup.full.tar.part001",
+      "size": 1900000000,
+      "sha256": "503a9e9a1afece6fbb5d5a1932c22f554d3749705957865e0e835a4ef1245d0c"
+    },
+    {
+      "name": "autodl_backup.full.tar.part002",
+      "size": 1900000000,
+      "sha256": "2965b72e7bd3c0f9b48909d070e9f783d94d8cba2d920fff4ad8cabc39da2899"
+    },
+    {
+      "name": "autodl_backup.full.tar.part003",
+      "size": 1900000000,
+      "sha256": "8f862d10c9d5df42b070bea43fb801aef744f1563b72c4f625d7b328501ec76b"
+    },
+    {
+      "name": "autodl_backup.full.tar.part004",
+      "size": 1900000000,
+      "sha256": "22a641f2fcd422dbe6c7cc589fc99f26bf409025cf1461796928b087629abe60"
+    },
+    {
+      "name": "autodl_backup.full.tar.part005",
+      "size": 1900000000,
+      "sha256": "04be2de65573856a74024b5fc420dc6253fc89a1ba005e57bd0ffd4f8cfdb0cc"
+    },
+    {
+      "name": "autodl_backup.full.tar.part006",
+      "size": 1900000000,
+      "sha256": "c76e4682a9159168ef64dfdf12befc5cd084362732e5b927286f1e284c5a27a1"
+    },
+    {
+      "name": "autodl_backup.full.tar.part007",
+      "size": 1900000000,
+      "sha256": "1396b6323557eddf185c4eb3bab38cadcf4a9e2fbd1d7ae0c5088f31adc4ea11"
+    },
+    {
+      "name": "autodl_backup.full.tar.part008",
+      "size": 1900000000,
+      "sha256": "af82779ac6defb2d9c806c47c3ef0c980ed3985e77e9e0fbbe85c750b7344cb5"
+    },
+    {
+      "name": "autodl_backup.full.tar.part009",
+      "size": 1900000000,
+      "sha256": "b50f4c7a0b652c8be613aa6e30c550a30da578090bde7d4cd1cda2621727d2f6"
+    },
+    {
+      "name": "autodl_backup.full.tar.part010",
+      "size": 1900000000,
+      "sha256": "d42d48b364d5327d1b52008f2dc90fb299b6a1aa40614c246c25d2b9b92ffb2f"
+    },
+    {
+      "name": "autodl_backup.full.tar.part011",
+      "size": 1900000000,
+      "sha256": "c8fc3a2ec24c75222871053f355d9cfc9ee516fde4414ef7042dcdfc2c91a8f5"
+    },
+    {
+      "name": "autodl_backup.full.tar.part012",
+      "size": 1900000000,
+      "sha256": "8d878f19b599e1f1a50622e80483091d0ff6bb898f8a790a9d7f0602a142a11a"
+    },
+    {
+      "name": "autodl_backup.full.tar.part013",
+      "size": 1900000000,
+      "sha256": "e2114e5ce6e0e60353bdbfa85c22a99710be551ee90968c5e2ec0ec429f7687b"
+    },
+    {
+      "name": "autodl_backup.full.tar.part014",
+      "size": 1900000000,
+      "sha256": "c7e946cfb089c6f81b927e0333f787135c48f99ba2668c1363350b39a6f4ff95"
+    },
+    {
+      "name": "autodl_backup.full.tar.part015",
+      "size": 1900000000,
+      "sha256": "56a774f854f56c7bf516bbffa8685ac924a7da7738e921ccd37ac5a8d037ea49"
+    },
+    {
+      "name": "autodl_backup.full.tar.part016",
+      "size": 1900000000,
+      "sha256": "5675e0778d036472b488433c5dd4ad4749dd87e5e247069480c17377efce749f"
+    },
+    {
+      "name": "autodl_backup.full.tar.part017",
+      "size": 1900000000,
+      "sha256": "68b704cf3d061790f492e065e1deb076452026717b53ad99f02b1e623ba56661"
+    },
+    {
+      "name": "autodl_backup.full.tar.part018",
+      "size": 1900000000,
+      "sha256": "5d09aabb9b16159f7dbc24430c8d7f8c5fa88df925309c096e3d157fc7be59df"
+    },
+    {
+      "name": "autodl_backup.full.tar.part019",
+      "size": 1900000000,
+      "sha256": "0097f8f862a44cd6f797c4d5197ebd4547b4e7013eb9d5d35b48cf0e366ae38b"
+    },
+    {
+      "name": "autodl_backup.full.tar.part020",
+      "size": 1900000000,
+      "sha256": "6da0861f448f99382624abdeaa8b729048c581a951f6b31f7ff40ab3c4d30728"
+    },
+    {
+      "name": "autodl_backup.full.tar.part021",
+      "size": 1900000000,
+      "sha256": "f60991fcf52584a04bf9dbc52a401a1166e637582d3937d96d437ed5577c1e6e"
+    },
+    {
+      "name": "autodl_backup.full.tar.part022",
+      "size": 1060051200,
+      "sha256": "e9c37cdd70bc6f9da16deddc370387d975f8a17911def3f5bda891fa3470ffbf"
+    }
+  ],
+  "files": [
+    {
+      "path": "autodl_backup/dataset/test_meiaonew.npz",
+      "size": 155245314,
+      "sha256": "efaecbc43780e06d6701e275b7f0d12afab68190cd20a3ecc50e0fd05e720069"
+    },
+    {
+      "path": "autodl_backup/dataset/train_meiaonew.npz",
+      "size": 1397203714,
+      "sha256": "772c1c3c6859c64a7ba5b029fdf1abde39f7fd991b4f72fcf1ed17ec8de24e04"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/.gitignore",
+      "size": 190,
+      "sha256": "aefe07a52418e9d0c587b31238f7503d35e75034a769547d5e56851a1f822ccf"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/deployment.xml",
+      "size": 604,
+      "sha256": "1c12729316e02cd61115bdcc42d262626459aab1826b9bcc55ed1ef28b3b06dc"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/DuDoTrans.iml",
+      "size": 582,
+      "sha256": "29fe4d3079807ee660c60eed5196e89528786fa97cb5931dfe6048baf833a915"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/inspectionProfiles/profiles_settings.xml",
+      "size": 174,
+      "sha256": "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/inspectionProfiles/Project_Default.xml",
+      "size": 964,
+      "sha256": "996ed07a05ef5af60d3ed0a7f28908e054db619e4eaeb3645ca3f5368a49083c"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/misc.xml",
+      "size": 476,
+      "sha256": "9a65fcb9930cfecd30267f4cef8cecb9ac82a14005b1410d4699c913cd6b05b5"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/modules.xml",
+      "size": 277,
+      "sha256": "5ac960527f3eafbb03c9cfa4940becb0f34eee910159d11f65e8d97ef49c1d6e"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.idea/workspace.xml",
+      "size": 2465,
+      "sha256": "c7b175b444ce867c0332bbf9a0d228c0e5c09964ce0208458806b813b8d25241"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.ipynb_checkpoints/export_dudotrans_pred_by_indices-checkpoint.py",
+      "size": 3897,
+      "sha256": "781acc69367a5105f3b3d63e72b8b5acf654c6784ded7899a95d35440f317213"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.ipynb_checkpoints/export_gt_by_indices-checkpoint.py",
+      "size": 2283,
+      "sha256": "52ccbb021024d5165e6b85b82d1c5dbcde480e864474f4286b21856746511c33"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.ipynb_checkpoints/main-checkpoint.py",
+      "size": 15425,
+      "sha256": "0f6a2bf67f17b61aff9238107425b139dfef50347a85c86d6e15a0f63eadc343"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.ipynb_checkpoints/network_swinir-checkpoint.py",
+      "size": 37082,
+      "sha256": "2e2b0a67d8c2df1144da488f2eb8708886db873c128a88204ea43215a289080f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/.ipynb_checkpoints/train_dudotrans-checkpoint.py",
+      "size": 1154,
+      "sha256": "d9ac2f15fdb63c3692c4735e51636533dd04866d032b104776a3cfa8296c4dca"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/__pycache__/main.cpython-312.pyc",
+      "size": 16036,
+      "sha256": "09317b37776a744c4ccbcb5b2d1508727b65a509bb3ddcacd3c5781c2dd4c3f3"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/__pycache__/network_swinir.cpython-312.pyc",
+      "size": 46887,
+      "sha256": "0279fded0fd7a3a8ba31942122d7fde345c3a6de0c46de7e2cbdda2e68ec2a41"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/__pycache__/network_swinir.cpython-39.pyc",
+      "size": 27787,
+      "sha256": "3fe817ac6803864c72452df688726cac81eced64f3bae93e0d6172831973c47f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/.ipynb_checkpoints/gt_idx0-checkpoint.png",
+      "size": 43757,
+      "sha256": "f1590b9f5ed6c332d102a8b048efad2af939ea2f207d026849f12576f0e5a60f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/.ipynb_checkpoints/gt_idx133-checkpoint.png",
+      "size": 42144,
+      "sha256": "e52ebbfcf233d99d20593366b166bc5dfc7e67902b088f382d69fc15f4bbf670"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/.ipynb_checkpoints/gt_idx199-checkpoint.png",
+      "size": 42398,
+      "sha256": "7ed02be885b0e646e8e481ad58cb5e825c4671907d04bbb019fb19a3252c7f18"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/.ipynb_checkpoints/gt_idx66-checkpoint.png",
+      "size": 33617,
+      "sha256": "86253ef01f5db17475859989bfa2dbde91d9272b5593ac8f433c4bd93d24325a"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/gt_idx0.png",
+      "size": 43757,
+      "sha256": "f1590b9f5ed6c332d102a8b048efad2af939ea2f207d026849f12576f0e5a60f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/gt_idx133.png",
+      "size": 42144,
+      "sha256": "e52ebbfcf233d99d20593366b166bc5dfc7e67902b088f382d69fc15f4bbf670"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/gt_idx199.png",
+      "size": 42398,
+      "sha256": "7ed02be885b0e646e8e481ad58cb5e825c4671907d04bbb019fb19a3252c7f18"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_check_gt/gt_idx66.png",
+      "size": 33617,
+      "sha256": "86253ef01f5db17475859989bfa2dbde91d9272b5593ac8f433c4bd93d24325a"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_dudotrans_pred_by_indices.py",
+      "size": 3897,
+      "sha256": "781acc69367a5105f3b3d63e72b8b5acf654c6784ded7899a95d35440f317213"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/export_gt_by_indices.py",
+      "size": 2283,
+      "sha256": "52ccbb021024d5165e6b85b82d1c5dbcde480e864474f4286b21856746511c33"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/loaders/.ipynb_checkpoints/load_dataset-checkpoint.py",
+      "size": 11117,
+      "sha256": "197d5108dae08664085b6dac14d1a486057431d4f182d7fb6f86401fdd7999de"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/loaders/__init__.py",
+      "size": 424,
+      "sha256": "9cf1c6bd0fd0565a03b2fe44df8650bfb69b2752b6009b3ce7057c3a09906fae"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/loaders/__pycache__/__init__.cpython-312.pyc",
+      "size": 142,
+      "sha256": "cde37971a2dd69aea22dedf3d43f5734a27220c1544a40331ecd5a45aee7111b"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/loaders/__pycache__/__init__.cpython-39.pyc",
+      "size": 157,
+      "sha256": "2cbd2ea15b386fac50fcb4ef4663aa65623a6eff5bad7e19a7974656ea067934"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/loaders/__pycache__/load_dataset.cpython-312.pyc",
+      "size": 17252,
+      "sha256": "028b40acd83d95f533b712cf7d501e10c44aae274ca6743497ae9d234bd691fd"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/loaders/__pycache__/load_dataset.cpython-39.pyc",
+      "size": 7544,
+      "sha256": "24c504058e0e1861fbb211f643abee27d56facb7a287e571a49ad59c03809ba5"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/loaders/load_dataset.py",
+      "size": 11117,
+      "sha256": "197d5108dae08664085b6dac14d1a486057431d4f182d7fb6f86401fdd7999de"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/main.py",
+      "size": 15425,
+      "sha256": "0f6a2bf67f17b61aff9238107425b139dfef50347a85c86d6e15a0f63eadc343"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__init__.py",
+      "size": 100,
+      "sha256": "a9e7b5ae9e23cc4f7ad3b011235c8c16175aaf2b3ff5e3ae9cecd0a5d1a0de9b"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/__init__.cpython-312.pyc",
+      "size": 199,
+      "sha256": "cc58f6312fd4fe7262cf3b15d4e98cab385998715a797bb28dd9e2a543d42b2f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/__init__.cpython-39.pyc",
+      "size": 206,
+      "sha256": "941a95c568594c30447b497d95b2800fb1a23a3a0f2ad164b134d0d5517f56f5"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/reconstructor.cpython-312.pyc",
+      "size": 3860,
+      "sha256": "72ca56f11e52658b5e548a774e7f3a6effc430e36c73031d79524fd6403860ac"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/reconstructor.cpython-39.pyc",
+      "size": 2656,
+      "sha256": "3c1522e855082d66b04f7342152ac787da4efd9a93f0b898e3cbc399ace95e0b"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/unet_model.cpython-312.pyc",
+      "size": 2030,
+      "sha256": "c4c6e3bf9ca7969583bb77cbabda743082a8e67d0e530f8f22d351e4aa3e1487"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/unet_model.cpython-39.pyc",
+      "size": 1232,
+      "sha256": "c48a60c6b143328c3fd35a27a72759e6a91af8bf0f05d216e9a4c5c8f1a10daa"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/Unet_parts.cpython-312.pyc",
+      "size": 6719,
+      "sha256": "a6d50a884c644f39627ca499deb41bf86bec372e289e52aa6f809f4a6d708112"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/__pycache__/Unet_parts.cpython-39.pyc",
+      "size": 4300,
+      "sha256": "12709c6cfd000f6629f9f73f868568e280785b32d15bc293b034cc77e417838f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/reconstructor.py",
+      "size": 2993,
+      "sha256": "3571dbae1774302f7e2c30ab786d3615264f16356ba9f1afc38cdd272fb7e478"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/unet_model.py",
+      "size": 1001,
+      "sha256": "6ebf7353b040e46cb462d1001d201249a0d6f1f0ddfa47abb550991998613e4b"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/modules/Unet_parts.py",
+      "size": 4549,
+      "sha256": "35531d7337f68640d952ae6320c8cd2d11e58fb11d3fdbaeb1cbb608f05ef676"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/network_swinir.py",
+      "size": 37082,
+      "sha256": "2e2b0a67d8c2df1144da488f2eb8708886db873c128a88204ea43215a289080f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/__init__.py",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/epoch_0iter1799.pth.tar",
+      "size": 276517509,
+      "sha256": "98b4867d31887e478c3031820a34f1f56a647517b9a54b8d034f92b0a68afedf"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/epoch_10iter1799.pth.tar",
+      "size": 276518238,
+      "sha256": "56fff7ac6611e81754f0ff0bae246ebd53b5cccbb889d59aa79563f9df179752"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/epoch_19iter1799.pth.tar",
+      "size": 276518238,
+      "sha256": "3f849dc5425be4f58247cf99cb405fbff228a7d19cb47289930a69e0624b8600"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_030/epoch_000_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "2f73a2e598f2ab7afec7e9cb5218ecfcaa34fa2cd2973878c1988e7c4a548ae3"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_030/epoch_010_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "815b6407762942abf69a4ecfa4e8e8b347c8da4d469689c80ebd44829b5319fe"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_030/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "70f42634c769c26cee7cf0258306f3b0ef3640495118f93777248ab479ee852c"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_060/epoch_000_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "4196cf99e7faf43acf581f6cfebc8f8e884a4c0f51029e0a8f455f06e949ac2f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_060/epoch_010_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "3e1e30543a45b32516167e5da7f31d18732995f2e3f88f5976ddc62a0c9bb372"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_060/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "073d92b3a7ce363e2f7dcec2e0495ac3c5062169f3245d7cb16a4e011e064523"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_090/epoch_000_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "c65d8d7ad6ec01edf4f5d24a31724a0ce634a7f2fb26d0d50e83ff6d1b1a5709"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_090/epoch_010_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "86bf225930cfcec3743073a0a769b1ba3f28e94f2cb25e7780e500c7f6391d6f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_090/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "9a6e685802d0752d252e033e2e8b506093dd387a14f0781c4a566efce21512d2"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_120/epoch_000_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "6a76cbfa7b6a3c50497cd934b5fcc908f884b56665be9d3e095103968713966f"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_120/epoch_010_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "aa4cb642804893a397fe91ba68cc505e38c5933cf3268f3371471d6674f34aa7"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/models/view_120/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "e9b965260edec2073d14129bc7ee3d76fae5b126a32b64f1bebf3f6f3d6298d2"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/results/visualization/.__init__.py",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "autodl_backup/DuDoTrans/train_dudotrans.py",
+      "size": 1154,
+      "sha256": "d9ac2f15fdb63c3692c4735e51636533dd04866d032b104776a3cfa8296c4dca"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/.gitignore",
+      "size": 190,
+      "sha256": "aefe07a52418e9d0c587b31238f7503d35e75034a769547d5e56851a1f822ccf"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/deployment.xml",
+      "size": 604,
+      "sha256": "1c12729316e02cd61115bdcc42d262626459aab1826b9bcc55ed1ef28b3b06dc"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/DuDoTrans.iml",
+      "size": 582,
+      "sha256": "29fe4d3079807ee660c60eed5196e89528786fa97cb5931dfe6048baf833a915"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/inspectionProfiles/profiles_settings.xml",
+      "size": 174,
+      "sha256": "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/inspectionProfiles/Project_Default.xml",
+      "size": 964,
+      "sha256": "996ed07a05ef5af60d3ed0a7f28908e054db619e4eaeb3645ca3f5368a49083c"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/misc.xml",
+      "size": 476,
+      "sha256": "9a65fcb9930cfecd30267f4cef8cecb9ac82a14005b1410d4699c913cd6b05b5"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/modules.xml",
+      "size": 277,
+      "sha256": "5ac960527f3eafbb03c9cfa4940becb0f34eee910159d11f65e8d97ef49c1d6e"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.idea/workspace.xml",
+      "size": 2465,
+      "sha256": "c7b175b444ce867c0332bbf9a0d228c0e5c09964ce0208458806b813b8d25241"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.ipynb_checkpoints/export_dudotrans_pred_by_indices-checkpoint.py",
+      "size": 3897,
+      "sha256": "781acc69367a5105f3b3d63e72b8b5acf654c6784ded7899a95d35440f317213"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.ipynb_checkpoints/export_gt_by_indices-checkpoint.py",
+      "size": 2283,
+      "sha256": "52ccbb021024d5165e6b85b82d1c5dbcde480e864474f4286b21856746511c33"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.ipynb_checkpoints/main-checkpoint.py",
+      "size": 15425,
+      "sha256": "0f6a2bf67f17b61aff9238107425b139dfef50347a85c86d6e15a0f63eadc343"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.ipynb_checkpoints/network_swinir-checkpoint.py",
+      "size": 37082,
+      "sha256": "2e2b0a67d8c2df1144da488f2eb8708886db873c128a88204ea43215a289080f"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/.ipynb_checkpoints/train_dudotrans-checkpoint.py",
+      "size": 1154,
+      "sha256": "d9ac2f15fdb63c3692c4735e51636533dd04866d032b104776a3cfa8296c4dca"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/__pycache__/export_dudotrans_pred_by_indices.cpython-310.pyc",
+      "size": 3112,
+      "sha256": "c2f9684b97def2592e52505f4604d18c1f792f0d3aece59522ab5c04da355b96"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/__pycache__/export_gt_by_indices.cpython-310.pyc",
+      "size": 2607,
+      "sha256": "7103891a01e4943293defa4c8135e0ab1ddaef9b13239a04f745c1788a697447"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/__pycache__/main.cpython-310.pyc",
+      "size": 9366,
+      "sha256": "8fa87b7134fd8e9b74a07ff4041253c2eb6ce87bed92ae03687a7f160dbabbff"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/__pycache__/test_dudotrans.cpython-310.pyc",
+      "size": 10030,
+      "sha256": "53a875d71e6056bd18b80eab44a577ade5af95de59c7799b2e694f6d0208cb9b"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/__pycache__/test_dudotrans_30view.cpython-310.pyc",
+      "size": 2090,
+      "sha256": "f97c4e9df1e2fe072f3f8a8b4033a55960b9b1a245be9d130e32745677f92163"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/__pycache__/train_dudotrans.cpython-310.pyc",
+      "size": 1636,
+      "sha256": "5f9c2d0f279f49c4f95098acb9ea6c7bcf162805b6edb02f753b8e2e8a94a89a"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/.ipynb_checkpoints/gt_idx0-checkpoint.png",
+      "size": 43757,
+      "sha256": "f1590b9f5ed6c332d102a8b048efad2af939ea2f207d026849f12576f0e5a60f"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/.ipynb_checkpoints/gt_idx133-checkpoint.png",
+      "size": 42144,
+      "sha256": "e52ebbfcf233d99d20593366b166bc5dfc7e67902b088f382d69fc15f4bbf670"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/.ipynb_checkpoints/gt_idx199-checkpoint.png",
+      "size": 42398,
+      "sha256": "7ed02be885b0e646e8e481ad58cb5e825c4671907d04bbb019fb19a3252c7f18"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/.ipynb_checkpoints/gt_idx66-checkpoint.png",
+      "size": 33617,
+      "sha256": "86253ef01f5db17475859989bfa2dbde91d9272b5593ac8f433c4bd93d24325a"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/gt_idx0.png",
+      "size": 43757,
+      "sha256": "f1590b9f5ed6c332d102a8b048efad2af939ea2f207d026849f12576f0e5a60f"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/gt_idx133.png",
+      "size": 42144,
+      "sha256": "e52ebbfcf233d99d20593366b166bc5dfc7e67902b088f382d69fc15f4bbf670"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/gt_idx199.png",
+      "size": 42398,
+      "sha256": "7ed02be885b0e646e8e481ad58cb5e825c4671907d04bbb019fb19a3252c7f18"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_check_gt/gt_idx66.png",
+      "size": 33617,
+      "sha256": "86253ef01f5db17475859989bfa2dbde91d9272b5593ac8f433c4bd93d24325a"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_dudotrans_pred_by_indices.py",
+      "size": 3897,
+      "sha256": "781acc69367a5105f3b3d63e72b8b5acf654c6784ded7899a95d35440f317213"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/export_gt_by_indices.py",
+      "size": 2334,
+      "sha256": "0752474d43d28bbf1194e4a61f773c83bcf2438795fb3a7b5189bb77201bfd48"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/.ipynb_checkpoints/load_dataset-checkpoint.py",
+      "size": 11117,
+      "sha256": "197d5108dae08664085b6dac14d1a486057431d4f182d7fb6f86401fdd7999de"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/__init__.py",
+      "size": 424,
+      "sha256": "9cf1c6bd0fd0565a03b2fe44df8650bfb69b2752b6009b3ce7057c3a09906fae"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/__pycache__/__init__.cpython-312.pyc",
+      "size": 142,
+      "sha256": "cde37971a2dd69aea22dedf3d43f5734a27220c1544a40331ecd5a45aee7111b"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/__pycache__/__init__.cpython-39.pyc",
+      "size": 157,
+      "sha256": "2cbd2ea15b386fac50fcb4ef4663aa65623a6eff5bad7e19a7974656ea067934"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/__pycache__/load_dataset.cpython-310.pyc",
+      "size": 7274,
+      "sha256": "6a3afb797a01a5c75880df94447b6244bc41e56b86731e2f64ca90c19971d4b5"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/__pycache__/load_dataset.cpython-312.pyc",
+      "size": 17252,
+      "sha256": "028b40acd83d95f533b712cf7d501e10c44aae274ca6743497ae9d234bd691fd"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/__pycache__/load_dataset.cpython-39.pyc",
+      "size": 7544,
+      "sha256": "24c504058e0e1861fbb211f643abee27d56facb7a287e571a49ad59c03809ba5"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/loaders/load_dataset.py",
+      "size": 11117,
+      "sha256": "197d5108dae08664085b6dac14d1a486057431d4f182d7fb6f86401fdd7999de"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/main.py",
+      "size": 17732,
+      "sha256": "5700e511f331e8b5be70c2855baf5b53c541f8512f4df56f20fdeffae9e7e7e2"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__init__.py",
+      "size": 100,
+      "sha256": "a9e7b5ae9e23cc4f7ad3b011235c8c16175aaf2b3ff5e3ae9cecd0a5d1a0de9b"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/__init__.cpython-312.pyc",
+      "size": 199,
+      "sha256": "cc58f6312fd4fe7262cf3b15d4e98cab385998715a797bb28dd9e2a543d42b2f"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/__init__.cpython-39.pyc",
+      "size": 206,
+      "sha256": "941a95c568594c30447b497d95b2800fb1a23a3a0f2ad164b134d0d5517f56f5"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/reconstructor.cpython-310.pyc",
+      "size": 2575,
+      "sha256": "159066ae4baca5cc5ca1c554409a294b60a17b890333dff897f424941d61019b"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/reconstructor.cpython-312.pyc",
+      "size": 3860,
+      "sha256": "72ca56f11e52658b5e548a774e7f3a6effc430e36c73031d79524fd6403860ac"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/reconstructor.cpython-39.pyc",
+      "size": 2656,
+      "sha256": "3c1522e855082d66b04f7342152ac787da4efd9a93f0b898e3cbc399ace95e0b"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/unet_model.cpython-312.pyc",
+      "size": 2030,
+      "sha256": "c4c6e3bf9ca7969583bb77cbabda743082a8e67d0e530f8f22d351e4aa3e1487"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/unet_model.cpython-39.pyc",
+      "size": 1232,
+      "sha256": "c48a60c6b143328c3fd35a27a72759e6a91af8bf0f05d216e9a4c5c8f1a10daa"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/Unet_parts.cpython-312.pyc",
+      "size": 6719,
+      "sha256": "a6d50a884c644f39627ca499deb41bf86bec372e289e52aa6f809f4a6d708112"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/__pycache__/Unet_parts.cpython-39.pyc",
+      "size": 4300,
+      "sha256": "12709c6cfd000f6629f9f73f868568e280785b32d15bc293b034cc77e417838f"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/reconstructor.py",
+      "size": 2993,
+      "sha256": "3571dbae1774302f7e2c30ab786d3615264f16356ba9f1afc38cdd272fb7e478"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/unet_model.py",
+      "size": 1001,
+      "sha256": "6ebf7353b040e46cb462d1001d201249a0d6f1f0ddfa47abb550991998613e4b"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/modules/Unet_parts.py",
+      "size": 4549,
+      "sha256": "35531d7337f68640d952ae6320c8cd2d11e58fb11d3fdbaeb1cbb608f05ef676"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/network_swinir.py",
+      "size": 37082,
+      "sha256": "2e2b0a67d8c2df1144da488f2eb8708886db873c128a88204ea43215a289080f"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/README.md",
+      "size": 2780,
+      "sha256": "b1b27f4142f1c8bf18c1a9c970ebf9710b39e5220f7e244c4135edbdaa36cd4f"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/requirements.txt",
+      "size": 208,
+      "sha256": "c0c3773b5a4194206b3db3829637be0914e98747500fee7ab5ecd00352c21b1c"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/results/models/__init__.py",
+      "size": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/results/models/view_030/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "70f42634c769c26cee7cf0258306f3b0ef3640495118f93777248ab479ee852c"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/results/models/view_060/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "5198b6db5ff9bedf9fbee93ae9933c8213bf23e152dd6435729c6f6efe21641d"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/results/models/view_090/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "9a6e685802d0752d252e033e2e8b506093dd387a14f0781c4a566efce21512d2"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/results/models/view_120/epoch_019_iter_001799.pth.tar",
+      "size": 276538346,
+      "sha256": "dd9b67d25c732c9384bf21ee43ab95607b58e66175e82a840f7d478d7a206866"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/test_dudotrans.py",
+      "size": 11998,
+      "sha256": "8da4331eac260b81b8891bbe5864e5d141ebf2424c510c79a071c3744eb0dbd4"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/test_dudotrans_30view.py",
+      "size": 2129,
+      "sha256": "0dc5e2c8ec908f10f998be6c7c7066c7fd792a30847f8add04f601f72bfbac47"
+    },
+    {
+      "path": "autodl_backup/dudotrans_autodl/train_dudotrans.py",
+      "size": 1785,
+      "sha256": "a5c178edf775344186719ddb0986ae04a90dc95cbab8e047a20af1ce21102b2c"
+    },
+    {
+      "path": "autodl_backup/dudotransCoauthor.zip",
+      "size": 21298005,
+      "sha256": "128ef1a6d7093d05dab35976ecc958db8e8f71d402fb082713e8148d3bb51ee9"
+    },
+    {
+      "path": "autodl_backup/exports/.ipynb_checkpoints/ablation_eca_vs_noeca_oneidx-checkpoint.png",
+      "size": 766532,
+      "sha256": "26a2071f94b2c38092dc38a5cf60eed3cd4a30157e67190bccfa17c046aae918"
+    },
+    {
+      "path": "autodl_backup/exports/.ipynb_checkpoints/build_ablation_one_idx-checkpoint.py",
+      "size": 4744,
+      "sha256": "5a6a304fe9934cb7512ffe41a2f220479370be0514af3cca06d3eace2acf1bf3"
+    },
+    {
+      "path": "autodl_backup/exports/.ipynb_checkpoints/build_one_panel-checkpoint.py",
+      "size": 6523,
+      "sha256": "1e8f1cf518dd37bdabd7b91f5118cca85727dd8fd20fd9b55e2d069f091fca76"
+    },
+    {
+      "path": "autodl_backup/exports/.ipynb_checkpoints/build_tables-checkpoint.py",
+      "size": 6120,
+      "sha256": "ab51c6bcbcc415e42883ba0b07915d6ea723ef871206c1cc5e8179253ab2aa99"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/.ipynb_checkpoints/panel_view_30_idx_0000-checkpoint.png",
+      "size": 595904,
+      "sha256": "d90cc011322753c5c9464106aecaad60f40d0b9068a5b505ce4723142d2e53cd"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/.ipynb_checkpoints/table_view_120-checkpoint.png",
+      "size": 3623179,
+      "sha256": "3ab3e66b57d9a093ab268e079b72149e0a6c20e114bbce0287c358b99422df42"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/.ipynb_checkpoints/table_views_models_mappedidx-checkpoint.png",
+      "size": 4113049,
+      "sha256": "aff743780d0240155b170bb18d7e5be9580464ecbdd2de655a4e9ccc359fb98a"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/panel_view_30_idx_0000.png",
+      "size": 595904,
+      "sha256": "d90cc011322753c5c9464106aecaad60f40d0b9068a5b505ce4723142d2e53cd"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/table_view_120.png",
+      "size": 3623179,
+      "sha256": "3ab3e66b57d9a093ab268e079b72149e0a6c20e114bbce0287c358b99422df42"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/table_view_30.png",
+      "size": 3266317,
+      "sha256": "ff50b2a23486d882d238f8400f19de19a0cccc4b4ba5a1de89f78a52941e9692"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/table_view_60.png",
+      "size": 3619890,
+      "sha256": "ff0b9007e434ee4ffabb6dca274857c0da3499c649f8ddf7d8620f8af94b196f"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/table_view_90.png",
+      "size": 3641355,
+      "sha256": "473375ad68361cd2ec79fd09273a61fffd5230de6ddd0ccf10777f8ce3a03423"
+    },
+    {
+      "path": "autodl_backup/exports/_tables/table_views_models_mappedidx.png",
+      "size": 4113049,
+      "sha256": "aff743780d0240155b170bb18d7e5be9580464ecbdd2de655a4e9ccc359fb98a"
+    },
+    {
+      "path": "autodl_backup/exports/ablation_eca_vs_noeca_oneidx.png",
+      "size": 766532,
+      "sha256": "26a2071f94b2c38092dc38a5cf60eed3cd4a30157e67190bccfa17c046aae918"
+    },
+    {
+      "path": "autodl_backup/exports/build_ablation_one_idx.py",
+      "size": 4744,
+      "sha256": "5a6a304fe9934cb7512ffe41a2f220479370be0514af3cca06d3eace2acf1bf3"
+    },
+    {
+      "path": "autodl_backup/exports/build_one_panel.py",
+      "size": 6523,
+      "sha256": "1e8f1cf518dd37bdabd7b91f5118cca85727dd8fd20fd9b55e2d069f091fca76"
+    },
+    {
+      "path": "autodl_backup/exports/build_tables.py",
+      "size": 6120,
+      "sha256": "ab51c6bcbcc415e42883ba0b07915d6ea723ef871206c1cc5e8179253ab2aa99"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_030/idx_0000.png",
+      "size": 141274,
+      "sha256": "a78f41d1ad1cc26084a60fa7c8086596b75c5d972cf2d768e5f25cbf2eb400db"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_030/idx_0066.png",
+      "size": 131477,
+      "sha256": "9ad2436b08bc9258dc8dbb91a74d3b7573e76bb9a1a6dcb884bb629af0a158b0"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_030/idx_0133.png",
+      "size": 142941,
+      "sha256": "73eb681f47dc786ba572bb707cfdf7084292d8db1d33eea99e7eeb1b05898fee"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_030/idx_0199.png",
+      "size": 144008,
+      "sha256": "24241088c947620f72045e100c37d78edb887af9e620f9b1b66d2c71b4fc51ef"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_060/idx_0000.png",
+      "size": 129326,
+      "sha256": "2bb55ed89eff8dd9ab3823eca632f8dcc892ca01e7a25b73fe3a9d249e7516f6"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_060/idx_0066.png",
+      "size": 116637,
+      "sha256": "f54e3ffe3e0bc3849bed7483309da56023376117b1f3062c1088f5c5bd2563f7"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_060/idx_0133.png",
+      "size": 130632,
+      "sha256": "f9fd930cff66faa46460d99c9284bd4ddb95dc79d0b2c5c3f533d928383c2fe2"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_060/idx_0199.png",
+      "size": 129324,
+      "sha256": "a098e6e7cf6fc1bbe86db49ebef12131091ff9e881583568b9dedce35cf7179f"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_090/idx_0000.png",
+      "size": 122925,
+      "sha256": "c5e13286b7f852c36c3b885ac97e0254ec1fb609e1ffde03c0569b546013801c"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_090/idx_0066.png",
+      "size": 109060,
+      "sha256": "22d97ccadff9e8a23f856d00d37086a876aa1d9bc2f1b3a88fc82001d32ebbdf"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_090/idx_0133.png",
+      "size": 122175,
+      "sha256": "c4813cfaae23ea12efb76ba1054b2cbf8e82160b4c6a304268f6f82cebb2aaf0"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_090/idx_0199.png",
+      "size": 121628,
+      "sha256": "30ab94171aceb04341fd909edd606668041ba8afbe54e113dd4eeefddfb10985"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_120/idx_0000.png",
+      "size": 116841,
+      "sha256": "65278eb9a7657054ed89f9225588b06f37da2847ce826cac887d95446978182f"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_120/idx_0066.png",
+      "size": 104639,
+      "sha256": "cbe33ee72f26fbf70d778e44e6ac0af36e79145e35d619b83231dc35220b753a"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_120/idx_0133.png",
+      "size": 117578,
+      "sha256": "d62cc55fb6cbfd456cc9cbc6ac5e20f2734da68800029d9348b1109e152aed70"
+    },
+    {
+      "path": "autodl_backup/exports/dudotrans/view_120/idx_0199.png",
+      "size": 116022,
+      "sha256": "e25d8589a48970fdf84ec7644f1cd72bbe4a4cc9390e08c30dd9fc137169f2a1"
+    },
+    {
+      "path": "autodl_backup/exports/gt/.ipynb_checkpoints/idx_0000-checkpoint.png",
+      "size": 122061,
+      "sha256": "1001fed90f3fcd1bc208c50fa1aed6c153d883a261bab52db9425bf8a629750d"
+    },
+    {
+      "path": "autodl_backup/exports/gt/idx_0000.png",
+      "size": 122061,
+      "sha256": "1001fed90f3fcd1bc208c50fa1aed6c153d883a261bab52db9425bf8a629750d"
+    },
+    {
+      "path": "autodl_backup/exports/gt/idx_0066.png",
+      "size": 93169,
+      "sha256": "fd7eaf1ea0660fffab49f25ece4807280ee5bc9d2c7c97a86c6019f87c6079c4"
+    },
+    {
+      "path": "autodl_backup/exports/gt/idx_0133.png",
+      "size": 117462,
+      "sha256": "42550ca027d7b41f7ac2aca04c475f6906afb0de22f9126361fac0192d0bd3e9"
+    },
+    {
+      "path": "autodl_backup/exports/gt/idx_0199.png",
+      "size": 117525,
+      "sha256": "8b20e2ec96eefcc47334051b19e26e399c3ac003d263bdd35717662c9f3e22f8"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_120/idx_0000.png",
+      "size": 96079,
+      "sha256": "5e6a4325efcc6898084085f33c2a6d2fea1017b9d302c30f6872bc7c98ca37b2"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_120/idx_0066.png",
+      "size": 79672,
+      "sha256": "edc3b43f742b2e9409b286ac7ed15551573fe2ed4e57b4d99ee3c721f09f9509"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_120/idx_0133.png",
+      "size": 94871,
+      "sha256": "6cb35d266d40928f6cb2b28ad20d7bdbf7be8edfde728f7263f45a51e99e91d5"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_120/idx_0199.png",
+      "size": 92237,
+      "sha256": "1e778556ab89c8e05e8885cb1b4c9276ae525b0bc573b7c2b1e1ca99396e9576"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_30/idx_0000.png",
+      "size": 94058,
+      "sha256": "507ad668a46bbb441a38cd2caf8ac14ae5edf6c49c818515f9a186a10578d8e4"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_30/idx_0066.png",
+      "size": 77719,
+      "sha256": "782152aa48cd9a333a8fb950e37437c63c7fde64411bee0af05d61a00506cfc2"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_30/idx_0133.png",
+      "size": 91295,
+      "sha256": "0a0d1c5071336fa50c65ae1b07d911905f9bffc719b24857d5c54d39b712b9df"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_30/idx_0199.png",
+      "size": 93131,
+      "sha256": "82f13cb38880eb79b78ea3eafab54dd7992fcde2fbae067731b5782987473303"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_60/idx_0000.png",
+      "size": 93571,
+      "sha256": "47f6c08d68d93f324f828c539fd62c9e1ac437166f4a13248f3c415ed9b49b21"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_60/idx_0066.png",
+      "size": 78769,
+      "sha256": "fb0cbb73252aa436e72097198934ac92ca4265bea5a896a8984bbbc358fb68e6"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_60/idx_0133.png",
+      "size": 95255,
+      "sha256": "89946e5eba3ca97227e086abfd7f17a3b91580d137774400c8835c35a64c3701"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_60/idx_0199.png",
+      "size": 89465,
+      "sha256": "187dfb26021a89d786294fa19dd231fdcda4622208c5969a9af5c28574098c9b"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_90/idx_0000.png",
+      "size": 95012,
+      "sha256": "bf1846d39e037ef1b65a465f3574ffe6151ba8355153922a8c0c27faf70ba0eb"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_90/idx_0066.png",
+      "size": 80908,
+      "sha256": "98e2d6760d5a5ffc6555df86e8a2eb4ea1071606e1e56e08b1e424fc32e97f62"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_90/idx_0133.png",
+      "size": 94331,
+      "sha256": "6bd9b9b957e9603e5287cda5be2f5f7030812258d44dbd63a509157b80c7b7b3"
+    },
+    {
+      "path": "autodl_backup/exports/redcnn/view_90/idx_0199.png",
+      "size": 90813,
+      "sha256": "e5610ee95beb8ce146453d3d2b02fd7c4c73bae9fd3aec3eaf8fcdafdba168d0"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_cnn/idx_0000.png",
+      "size": 35268,
+      "sha256": "3781c724d3e46576094cc6567b5d16ab85c9f58873e25dde310b935df7b4ce3b"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_cnn/idx_0066.png",
+      "size": 31437,
+      "sha256": "6acec2c5cc121da44e1be8700c1d94f4013e26a6dbb819712e3504e18e81a25a"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_cnn/idx_0133.png",
+      "size": 35024,
+      "sha256": "bcdeb561655eb08b5a212c102a4363bb9c43186a38dbf8c78dd9aed2fa6e1b64"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_cnn/idx_0199.png",
+      "size": 35326,
+      "sha256": "ce4cedba79861f292964a408d109539bdedaae8cf6eb4542b1e0c4d3cfd9b28f"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_li/idx_0000.png",
+      "size": 36267,
+      "sha256": "f34072b729164c4fe944e98b0751ab85ced653c0617e642efa4d233b6d00ff92"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_li/idx_0066.png",
+      "size": 32143,
+      "sha256": "7884c94112ec80d95059b83fe4c540213008835e2ca5dc888fb7b3791c5a8ce7"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_li/idx_0133.png",
+      "size": 35841,
+      "sha256": "72835e52e3feb625bd72119d2643c56f4679834aa0687fde7da2a7bc0da3e2e5"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/fbp_li/idx_0199.png",
+      "size": 36050,
+      "sha256": "cb6715ca35af06e6a7b5771d50cc6666beedc04a863edd073bb0e291a7157619"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/noeca/idx_0000.png",
+      "size": 43034,
+      "sha256": "353af0b2b840bc65161a511d0ba352dbdd3611456b6a8f9bb137bfad5b360c6a"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/noeca/idx_0066.png",
+      "size": 37112,
+      "sha256": "ff575b2cd8c01befa8c8ab57a24b1dbddc3412c718a19c6bf9c7cac8c9b3ef57"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/noeca/idx_0133.png",
+      "size": 42303,
+      "sha256": "132a5042ec758bc235a7aaa158865bd9d999d9ba813b4b24ac0b745b5fecb900"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/noeca/idx_0199.png",
+      "size": 42833,
+      "sha256": "3251f1b5945c33fd622d32aba0caaaa9b18c863be58d5b4c96f53c8daa4ca758"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/svct_pred/.ipynb_checkpoints/idx_0066-checkpoint.png",
+      "size": 37023,
+      "sha256": "8d38f7ebe48f8160941c66b681d470003098f3f184fbbc76ac862a46f96968e6"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/svct_pred/idx_0000.png",
+      "size": 43050,
+      "sha256": "7edefdd4a731fb076b1fd2c5cf14b36ab69cb319a5b044e7bf4b348b611bc48a"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/svct_pred/idx_0066.png",
+      "size": 37023,
+      "sha256": "8d38f7ebe48f8160941c66b681d470003098f3f184fbbc76ac862a46f96968e6"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/svct_pred/idx_0133.png",
+      "size": 42924,
+      "sha256": "a5cdc381ebe0643a243c8e97885507585f043a86d0ce5dc76b5fea3b2c90f9bc"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_120/svct_pred/idx_0199.png",
+      "size": 43264,
+      "sha256": "f26ec0a6aab0767b54700801cac6721276f75a4d9d7ab622423f9939f879e645"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_cnn/idx_0000.png",
+      "size": 30447,
+      "sha256": "81869f1980310259b395be4347c2e17c710f7354a7ebebe0996dd5e813a0af71"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_cnn/idx_0066.png",
+      "size": 26708,
+      "sha256": "f0d0e31e1536c49dc67f4b0bbc4617335d817e083d735ef777677b86da88a1be"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_cnn/idx_0133.png",
+      "size": 29991,
+      "sha256": "69d43bd263c7472f0d3e0cc8399b3c5387450c72e2cf6fcbc2c465959afbe851"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_cnn/idx_0199.png",
+      "size": 30195,
+      "sha256": "576c24ecb400a8afcf3b76f291a1667fd4d3ce97878a6604960b02368473883b"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_li/.ipynb_checkpoints/idx_0000-checkpoint.png",
+      "size": 32087,
+      "sha256": "35514ea3e92113730df43ffdd82a9f0a6779ecf4159cd731afd55e17e2f5aa71"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_li/idx_0000.png",
+      "size": 32087,
+      "sha256": "35514ea3e92113730df43ffdd82a9f0a6779ecf4159cd731afd55e17e2f5aa71"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_li/idx_0066.png",
+      "size": 30658,
+      "sha256": "78095482bb8b372b0236ed80043389c649d2eba5003b09d1102fd1e30aa3bd17"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_li/idx_0133.png",
+      "size": 28200,
+      "sha256": "b339e2c8130a7ce91d61d667720d337b2125b56c7fe30f51cf12b38caab86fcd"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/fbp_li/idx_0199.png",
+      "size": 31008,
+      "sha256": "330c8265d9fd381273616985ee244eb95a7e7406cac3585fdd3148844f78e8e6"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/noeca/idx_0000.png",
+      "size": 42417,
+      "sha256": "98d25eca207a905be73d7b55da10560db62e1e855b051b58ebaed8fd0c9f6a3c"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/noeca/idx_0066.png",
+      "size": 35646,
+      "sha256": "b70c44e7b19aef6d2f1cdae7ae0801ff9b5a00f16946cca03dd11922e7b68c6e"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/noeca/idx_0133.png",
+      "size": 41963,
+      "sha256": "dc955282efb76886608bc527bea93786b47387461c1d7befa1146c2f10777149"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/noeca/idx_0199.png",
+      "size": 42857,
+      "sha256": "5a8447e20d063c09e6dd936031665f2f313a3b29dec64b1f9821c988ded7b1ba"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/svct_pred/idx_0000.png",
+      "size": 43771,
+      "sha256": "5ca85d7b785bfa158225b8d2ca722e34f45fa5db1e27198f7aa5cb7c044bce97"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/svct_pred/idx_0066.png",
+      "size": 38293,
+      "sha256": "63953ef20293129404ea9428c8bffecce2dfbd05e259e56c80729b903c397e0a"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/svct_pred/idx_0133.png",
+      "size": 43256,
+      "sha256": "bf6225a37a0dba0d64ad198891bb7371ab8f3634b259ebfb828c5d89075e13c7"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_30/svct_pred/idx_0199.png",
+      "size": 43930,
+      "sha256": "52a3a69a0a948b3bd6b99e699dcea61a218ea35c51bf1bd51eedbb4251485abb"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_cnn/idx_0000.png",
+      "size": 32699,
+      "sha256": "b5b32b789afb694fe6eff2ec1e91c5411863b7abf0a95be1745c77481885575c"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_cnn/idx_0066.png",
+      "size": 29030,
+      "sha256": "80e8548f2f4f682326a7e40e96cc2a95df17c07d1b89922f0962e56de711d7cb"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_cnn/idx_0133.png",
+      "size": 32357,
+      "sha256": "f3e645b7489be096906b6e18dbfba619b48a86597bda2cc5e133482f169200ca"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_cnn/idx_0199.png",
+      "size": 32937,
+      "sha256": "b5b4ada2130de4286cb3a486f82839c0fd9e9b4ac27a3de176500d294486f90b"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_li/idx_0000.png",
+      "size": 34960,
+      "sha256": "b5fce65ce052f1f592a7a382dd3f56a3d9182c39bab70c641b760d8e7c9435c0"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_li/idx_0066.png",
+      "size": 31054,
+      "sha256": "b3e5b37f68b8f94143259301ba21805234e150ee309d8746abf1a4429f04820f"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_li/idx_0133.png",
+      "size": 33919,
+      "sha256": "aa5c2011cc1780067340016e45be51c8cbfd66db0ef5c388a15aaeae45c5fdc4"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/fbp_li/idx_0199.png",
+      "size": 35025,
+      "sha256": "df095bfd6226ec86028dc3757588b03e5f6fe00bacd914e488ec27d2aa1392ca"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/noeca/idx_0000.png",
+      "size": 42751,
+      "sha256": "eae65e4b57f8ae539efe60fe0d44c5e191e8b106e934c09b236a4c0231c3c9ca"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/noeca/idx_0066.png",
+      "size": 38682,
+      "sha256": "6a0d356d01d0b9728120ee742c8b0b72decec165c682833aee5753adadf8c88e"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/noeca/idx_0133.png",
+      "size": 41984,
+      "sha256": "45972974689dc9839b795aecb466089fee9bd9497bf48856ec55e802b25e496f"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/noeca/idx_0199.png",
+      "size": 42796,
+      "sha256": "0871c3bd4bd8c90287e52d02c66fb4031a7f8b1197fea16eee6a0c98eddaa0ad"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/svct_pred/idx_0000.png",
+      "size": 42597,
+      "sha256": "10043a3cdf953fa015ba8972af5502bc3dc94f33989f1e8a3ad7b7a4bee38eb7"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/svct_pred/idx_0066.png",
+      "size": 35940,
+      "sha256": "07205a490ca1a775fa4fdd79aed89a70acc74242638a66ff762ea886dc10760f"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/svct_pred/idx_0133.png",
+      "size": 41940,
+      "sha256": "cbf4dee6bc618b60527723e28f5040da1a9a0aedf8014713357adfdbcb671aac"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_60/svct_pred/idx_0199.png",
+      "size": 42899,
+      "sha256": "43a4bbe42b1f3185943845a0682d06324bce547018d8a0553666e4a497dfab56"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_cnn/idx_0000.png",
+      "size": 34806,
+      "sha256": "aeb843759edfcb0f26358914b8c06f4dfc090ca55e92378a55dbce18dd5e0f39"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_cnn/idx_0066.png",
+      "size": 30754,
+      "sha256": "820af92a74e3369595d7fdf6d962354a09652ea4092b7b71e71314adeac0239e"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_cnn/idx_0133.png",
+      "size": 34646,
+      "sha256": "9178b4327f61dc22391de3dc049f05f38110480e06bd3acd6b5794adbf3a2854"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_cnn/idx_0199.png",
+      "size": 34626,
+      "sha256": "3ce55dcd6f729ba27d0a9ba2b4b419c40a8e86805e1b6aadf9ee1faa438b2d53"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_li/idx_0000.png",
+      "size": 36005,
+      "sha256": "655cc2dc5599c60bd66825b0909d1894d842da7182b9bf2c72ada56c7955ed5f"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_li/idx_0066.png",
+      "size": 31463,
+      "sha256": "a142c99f124f7db3e27c3347b4cee1d0c99f6f164338187218c4d3e8f3c85523"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_li/idx_0133.png",
+      "size": 35643,
+      "sha256": "eb1e36c859dcdc7ba882657b80d75500c07240d23cc9f70c6d8c4b7c2bfa57a9"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/fbp_li/idx_0199.png",
+      "size": 35595,
+      "sha256": "218009fa6c566cafd9d0ebf203e97ab03841033bff977a9cd3e6511f6bbc84ed"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/noeca/idx_0000.png",
+      "size": 43507,
+      "sha256": "5a1c477b1609bc6f7b1f54b3fbff5040d2b47bcc961c29e74367fd1866e7bb61"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/noeca/idx_0066.png",
+      "size": 36360,
+      "sha256": "e1143135c3da12a09014973cdac98d9835245fe8113092ae5c1bde24cecf0888"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/noeca/idx_0133.png",
+      "size": 42772,
+      "sha256": "d0e6982476f2701c59bae97bd3925d0224474eede3de82a77a2250e57c4bf3a7"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/noeca/idx_0199.png",
+      "size": 42871,
+      "sha256": "940c4e35b0c7f1f5ad73fbb738366c3fc095a2808daa0438d247bdf2a8ac10b4"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/svct_pred/idx_0000.png",
+      "size": 43493,
+      "sha256": "660f78e0217f994a119ef120b482ca5e8ef88903121ff75a91e0095d08b0dd17"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/svct_pred/idx_0066.png",
+      "size": 37314,
+      "sha256": "d71bf1badac4acb67e94ee779913df62940a0d960ceb20219b6691988bf5b4e1"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/svct_pred/idx_0133.png",
+      "size": 42669,
+      "sha256": "6e0e453c3b41fe96d9ea47ef1996feb071333242cc8a3db36fa6f93250cf3fe6"
+    },
+    {
+      "path": "autodl_backup/exports/svct/view_90/svct_pred/idx_0199.png",
+      "size": 43142,
+      "sha256": "4326795aff1a34f851181b5f226aa513b2aafc7c201885b88a2b28f703e19d1b"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/.idea/.gitignore",
+      "size": 190,
+      "sha256": "aefe07a52418e9d0c587b31238f7503d35e75034a769547d5e56851a1f822ccf"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/.idea/deployment.xml",
+      "size": 447,
+      "sha256": "338ca1f05e8312ca7199d74fe9e060280547d0c6f172bd4dfd2648a3d818ec6b"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/.idea/inspectionProfiles/profiles_settings.xml",
+      "size": 174,
+      "sha256": "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/.idea/misc.xml",
+      "size": 284,
+      "sha256": "f2b29d6cf0eb75c9ab71e7dbedb7f15c6841d3eb1dc596b23812153754ff5fc4"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/.idea/modules.xml",
+      "size": 287,
+      "sha256": "c9752f7744884485a5261d672951d38506f29b695b42b986090c211093a083a3"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/.idea/RED-CNN-master.iml",
+      "size": 325,
+      "sha256": "c5317e4d88e317da1a47f47daa82122e04324641481b3f5105368fe41d7c321d"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/.idea/workspace.xml",
+      "size": 3082,
+      "sha256": "8107b94c885ebacc305cb584927501572e72787edaf94a77875fc7cec3714478"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/img/redcnn.PNG",
+      "size": 947124,
+      "sha256": "588b0733ed76bbeb36a12bacf07d71eca3c0f837b6142864aad76dc1afcdbbe1"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/img/result_11.png",
+      "size": 424755,
+      "sha256": "e50e87c4977b7dcdbc38657b5eff2505b59349a96dbc6a6b5afa49099500daf0"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/img/result_25.png",
+      "size": 397816,
+      "sha256": "e0d2c17ec476db2aba1f5f92a89e54371190426318ac5fca8fc3e00c149ee3ee"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/img/result_81.png",
+      "size": 307865,
+      "sha256": "6a88fc473ecba0db50c7b7d7d980ec5476b69dc7a76cb5accd9e652a70fbc765"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/loader.py",
+      "size": 3449,
+      "sha256": "22a10a4988407e7554bdd4f14acac88964ed7ff1d32efeae59e2a8d060763500"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/main.py",
+      "size": 2991,
+      "sha256": "a83ebcc07ed0592d9533631a4f6b7c793bca27aa36880da7601b295c0b53c047"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/measure.py",
+      "size": 2661,
+      "sha256": "d486a724e38c28ecaa5b80963f295ea6999d51b8fea60b4e5a9e3bb0ab70d261"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/my.py",
+      "size": 38,
+      "sha256": "e6206fd76bc93c513ee2a2e32a7acbc984325cd45e4ea5deba1d088fab66bd90"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/networks.py",
+      "size": 1719,
+      "sha256": "dd43f8bfd7fb96d07f43004b855cfd093ffabfbae81ee8101c2cd9a24153011f"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/prep.py",
+      "size": 3626,
+      "sha256": "9d6c9d5cbb59a4b4194f30ab6608739db3d59df9c65e3911d6a33c8a939220e2"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/README.md",
+      "size": 2082,
+      "sha256": "dd1cd1f8dfb1ff6a7ac1ff179cd57e7e98c2b829e0fd7c82073d969293116128"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/save/loss_100000_iter.npy",
+      "size": 800128,
+      "sha256": "23e0166fbb4d4e38de0ebc672c9ab888e9e5c9e7ae52ff2d03a774a225e2c9f9"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/save/REDCNN_100000iter.ckpt",
+      "size": 7398590,
+      "sha256": "390f7e8c2fd4da095a952e2326eacaaa1c13e3469b756ffa43842d77ab1cb6d3"
+    },
+    {
+      "path": "autodl_backup/redcnn/Redcnn/RED-CNN-master/solver.py",
+      "size": 8363,
+      "sha256": "4a49f0538208ccff6c7218c096e93d23cc81253f470e03f7568e3e94ccbb5eb0"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/export_redcnn_npz.py",
+      "size": 2574,
+      "sha256": "5ae02b77a74858c31bb3915bed145479840a8ed78a5e094f2551d73882bf49fa"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/img/redcnn.PNG",
+      "size": 947124,
+      "sha256": "588b0733ed76bbeb36a12bacf07d71eca3c0f837b6142864aad76dc1afcdbbe1"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/img/result_11.png",
+      "size": 424755,
+      "sha256": "e50e87c4977b7dcdbc38657b5eff2505b59349a96dbc6a6b5afa49099500daf0"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/img/result_25.png",
+      "size": 397816,
+      "sha256": "e0d2c17ec476db2aba1f5f92a89e54371190426318ac5fca8fc3e00c149ee3ee"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/img/result_81.png",
+      "size": 307865,
+      "sha256": "6a88fc473ecba0db50c7b7d7d980ec5476b69dc7a76cb5accd9e652a70fbc765"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/loader.py",
+      "size": 3449,
+      "sha256": "22a10a4988407e7554bdd4f14acac88964ed7ff1d32efeae59e2a8d060763500"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/main.py",
+      "size": 2991,
+      "sha256": "a83ebcc07ed0592d9533631a4f6b7c793bca27aa36880da7601b295c0b53c047"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/measure.py",
+      "size": 2661,
+      "sha256": "d486a724e38c28ecaa5b80963f295ea6999d51b8fea60b4e5a9e3bb0ab70d261"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/my.py",
+      "size": 38,
+      "sha256": "e6206fd76bc93c513ee2a2e32a7acbc984325cd45e4ea5deba1d088fab66bd90"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/networks.py",
+      "size": 1690,
+      "sha256": "577c47cda775a5224d178aeb9fecbeed073fbdc3ea80550924ff06b42eeeca7c"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/npz_loader.py",
+      "size": 5527,
+      "sha256": "c14a2512ba0ee99f0515b93c9e1b0a5d6c796bb78b1be1ad012133440fbfeea9"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/prep.py",
+      "size": 3626,
+      "sha256": "9d6c9d5cbb59a4b4194f30ab6608739db3d59df9c65e3911d6a33c8a939220e2"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/README.md",
+      "size": 1401,
+      "sha256": "fafb515982767d12a0b5ac5e467388d3b73f6b8cd0b4367772c2836dd2a797fd"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/requirements.txt",
+      "size": 60,
+      "sha256": "b8ae3ab26c376c2cd545ca2f583e95f408660268585c9627b23ef80b1ea42cbb"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/save/loss_100000_iter.npy",
+      "size": 800128,
+      "sha256": "23e0166fbb4d4e38de0ebc672c9ab888e9e5c9e7ae52ff2d03a774a225e2c9f9"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/save/REDCNN_100000iter.ckpt",
+      "size": 7398590,
+      "sha256": "390f7e8c2fd4da095a952e2326eacaaa1c13e3469b756ffa43842d77ab1cb6d3"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/solver.py",
+      "size": 8363,
+      "sha256": "4a49f0538208ccff6c7218c096e93d23cc81253f470e03f7568e3e94ccbb5eb0"
+    },
+    {
+      "path": "autodl_backup/redcnn_autodl/train_redcnn_npz.py",
+      "size": 4764,
+      "sha256": "28d1ceff5881bb0ac10a9ce0057868ad8becda7c6d29087d3cff3a120647de47"
+    },
+    {
+      "path": "autodl_backup/redcnnCoauthor.zip",
+      "size": 9217288,
+      "sha256": "f23dcee011ce3114639361acf3636439b9cfc1b13ae94c0cab1399a679569eea"
+    },
+    {
+      "path": "autodl_backup/svct_backup_2026-05-03.tar.gz",
+      "size": 34065357300,
+      "sha256": "2649a7328fb238c44ea69d91dbef8b7bf4260a1e40b3a729fffaa913c06a9a88"
+    }
+  ]
+}

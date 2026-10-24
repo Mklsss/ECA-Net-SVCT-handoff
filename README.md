@@ -8,7 +8,7 @@
 
 完整备份在本仓库的 **Releases** 中，仓库首页的 “Download ZIP” 仅包含源码和文档，不能代替完整备份。
 
-上传状态：正在准备分卷与校验清单；完成前请勿将本仓库视为完整备份。
+上传状态：完整备份已上传并校验。原始文件 291 个，总计 40,959,524,041 字节；共 22 个分卷。每个附件的 GitHub SHA-256 与本地一致。
 
 在 Release 页面下载全部 `autodl_backup.full.tar.partNNN` 和 `backup_manifest.json`，放入同一个目录。分卷属于一个未压缩 TAR 流，不能单独解压；原来的 34 GB `.tar.gz` 文件完整保存在这个流中，没有重新压缩或改变内容。
 
@@ -18,7 +18,7 @@
 python restore_backup.py --parts-dir /path/to/downloaded-assets --out /path/to/restore
 ```
 
-脚本先校验所有分卷 SHA-256，再还原 `autodl_backup/`，最后校验每个原始文件的 SHA-256。不覆盖已有的同名备份目录。准备至少 45 GB 的还原空间；若还要展开主项目压缩包，需要额外约 38 GB 的空间。
+脚本先校验所有分卷 SHA-256，再还原 `autodl_backup/`，最后校验每个原始文件的 SHA-256。不覆盖已有的同名备份目录。下载分卷约占 41 GB，此外至少预留 45 GB 用于还原；若还要展开主项目压缩包，再预留约 38 GB。若同时保留下载包、还原目录与展开后的主项目，应准备约 125 GB 空间。
 
 私有仓库的下载者需要仓库访问权限；GitHub CLI 用户也可以使用 `gh release download usb-backup-2026-10-24 --repo Mklsss/ECA-Net-SVCT-handoff` 下载附件。
 
@@ -60,9 +60,22 @@ Git 仓库中的 `svct/` 是从原主压缩包提取的源码；baseline 源码�
 4. 查看参数再运行：`python main.py --help`。历史训练命令和环境快照在压缩包内的 `swanlog/*/files/`；环境快照可能含服务器本地路径，不能直接视为可移植安装文件。
 5. baseline 的运行方法见各自的 `README.md`。需要 PyTorch/torchvision、NumPy、SciPy、scikit-image、SwanLab，以及对应流程使用的 ASTRA/ODL 等依赖；GPU/CUDA 版本应与这些算子兼容。未完成全新环境的端到端复现验证。
 
+`main.py` 在解析命令行参数之前就初始化 SwanLab，原代码的 workspace 是 `mkls`；接手时需配置自己的记录/认证方式。该初始化中的日志参数字典与 `config.py` 默认值不同，不应把日志字典直接当成实际生效配置。感知损失使用 `vgg19(pretrained=True)`，首次训练还需准备对应预训练权重缓存或允许 torchvision 下载。
+
 **主包当前默认配置是 `num_sparse_views=120`、`USE_ECA_IN_GENERATOR=False`、`ECA_KERNEL_SIZE=3`。** 直接使用默认值会进入无 ECA 的设置。运行 GAN+ECA 时需要显式开启 ECA，并选择同视角、同架构的生成器和投影 CNN 权重。`export_svct_pred_by_indices.py` 也读取此配置；无 ECA 的独立导出脚本显式设置 `use_eca=False`。
 
+该配置快照中的损失权重为 `LAMBDA_MSE=0.8`、`LAMBDA_ADV=0.05`、`LAMBDA_CONTENT=0.0001`、`LAMBDA_TV=1e-7`。这些是备份当前默认值，不代表已经核实了每个视角最终出表时的参数。
+
 主包 `output/` 中有四组 `projection_cnn_final_<views>views.pth`、`generator_final_<views>views.pth`，以及无 ECA 权重。30-view 无 ECA 文件名为 `generator_final_30views_100enoeca.pth`，其他视角为 `generator_final_<views>views_noeca.pth`。名称和目录不构成实验来源证明，需与原始训练配置和论文表格对应。
+
+例如，使用完整备份内的 120-view GAN+ECA 权重时，先在自己的工作副本中设置正确的 `DATA_DIR`、`num_sparse_views=120`、`USE_ECA_IN_GENERATOR=True`，再从展开后的 `svct/` 运行以下原有入口：
+
+```bash
+python main.py --mode precompute_fbp --cnn_weights output/projection_cnn_final_120views.pth
+python main.py --mode test --cnn_weights output/projection_cnn_final_120views.pth --gen_weights output/generator_final_120views.pth
+```
+
+这些命令由原脚本参数和现有文件名整理，未在此次交接中完成 GPU 执行验证；切换视角时应同步修改配置、投影 CNN、生成器和预计算数据文件。
 
 ## 已知问题与复现边界
 
@@ -70,6 +83,7 @@ Git 仓库中的 `svct/` 是从原主压缩包提取的源码；baseline 源码�
 - **RED-CNN：** 只找到旧 `REDCNN_100000iter.ckpt`，未找到 30/60/90/120 四组明确对应论文实验的 `REDCNN_epoch_099.ckpt`。代码支持重训，现有材料不能保证直接还原论文该 baseline 的四组数值。README 内的权重路径是命令示例。
 - **主模型：** `output/discriminator_final_60views_noeca.pth` 仅 377,749,504 字节，同类通常约 1,078,352,534 字节，需要验证；`checkpoints/60views/` 中另有候选备份。未逐个加载主模型权重。
 - **设置对应：** 主表使用 30/60/90/120 views；论文正文写的 `S=2/4/8/12` 若从 360 个角度降采样，对应 180/90/45/30。需确认实际数据选择，不能混用两组设置。
+- **角度索引：** `config.py` 中 `SPARSE_VIEW_ANGLES` 与 `SPARSE_VIEW_INDICES` 分别使用 360 和 359 作为 `linspace` 上界，两套索引并不相同。生成稀疏输入、CNN 训练和 FBP 时需核对实际使用的索引及对应角度；本交接未修改该配置。
 - **baseline 可比性：** 当前 DuDoTrans/RED-CNN 数据代码使用 512×512，主模型为 256×256；DuDoTrans 还重新生成投影并加噪声。比较时需明确分辨率、几何、噪声、归一化、测试样本和指标口径。
 - **评估材料：** `exports/` 是选定切片的 8-bit PNG，不能替代完整测试集、浮点预测或逐切片指标。备份中未发现完整逐切片 CSV 指标表。
 - **后续修改：** 审稿涉及 HU、误差范围、参数量/FLOPs/推理时间、损失权重敏感性、空间注意力及创新性论证。此次仅交接原文件，没有实现或补做这些实验；也没有修改论文。正式邮件决定为拒稿并鼓励充分修改后重新投稿。
