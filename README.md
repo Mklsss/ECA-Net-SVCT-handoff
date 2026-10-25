@@ -20,7 +20,7 @@ python restore_backup.py --parts-dir /path/to/downloaded-assets --out /path/to/r
 
 脚本先校验所有分卷 SHA-256，再还原 `autodl_backup/`，最后校验每个原始文件的 SHA-256。不覆盖已有的同名备份目录。下载分卷约占 41 GB，此外至少预留 45 GB 用于还原；若还要展开主项目压缩包，再预留约 38 GB。若同时保留下载包、还原目录与展开后的主项目，应准备约 125 GB 空间。
 
-私有仓库的下载者需要仓库访问权限；GitHub CLI 用户也可以使用 `gh release download usb-backup-2026-10-24 --repo Mklsss/ECA-Net-SVCT-handoff` 下载附件。
+本仓库已公开，下载无需协作者权限；GitHub CLI 用户也可以使用 `gh release download usb-backup-2026-10-24 --repo Mklsss/ECA-Net-SVCT-handoff` 下载附件。
 
 ## 完整备份目录
 
